@@ -4,9 +4,12 @@ set nocompatible
 call plug#begin('~/.vim/plugged')
 call plug#end()
 
+syntax on
+filetype indent plugin on
+
+set background=dark
+colorscheme desert
 set number
+
 set tabstop=4
 set shiftwidth=4
-colorscheme desert
-syntax on
-au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
