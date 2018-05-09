@@ -2,7 +2,6 @@ set nocompatible
 
 " vim-plug plugin manager
 call plug#begin('~/.vim/plugged')
-Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
 call plug#end()
 
@@ -15,3 +14,5 @@ set number
 
 set tabstop=4
 set shiftwidth=4
+
+autocmd BufNewFile,BufRead *.fish setf sh
