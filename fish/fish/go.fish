@@ -1,1 +1,0 @@
-set GOPATH $HOME/go
