@@ -1,7 +1,9 @@
 [user]
 	name = Sofia Nieves
-	email = xtothed@gmail.com
+	email = sofia@qwfp.net
 [core]
 	editor = vim
 [push]
 	default = simple
+[commit]
+	gpgsign = true
