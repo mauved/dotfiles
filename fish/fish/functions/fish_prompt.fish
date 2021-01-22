@@ -16,6 +16,8 @@ function fish_prompt
     printf '%s' (prompt_pwd)
     set_color normal
 
+    printf '%s' (fish_git_prompt)
+
     # Line 2
     echo
     if test $VIRTUAL_ENV
