@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"CSS3",
+		"Package Control",
+		"PowerShell",
+		"SublimeLinter",
+		"SublimeLinter-contrib-PSScriptAnalyzer",
+		"SublimeLinter-contrib-terraform",
+		"SublimeLinter-contrib-yamllint",
+		"SublimeLinter-golint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-pylint",
+		"SublimeLinter-shellcheck",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
