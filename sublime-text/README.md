@@ -1,5 +1,5 @@
 # Sublime Text
 ## Linux
 ```
-stow -t $HOME/.config/sublime-text-3/Packages/User sublime-text
+stow -t $HOME/.config/sublime-text/Packages sublime-text
 ```
