@@ -8,8 +8,6 @@ call plug#end()
 syntax on
 filetype indent plugin on
 
-set background=dark
-colorscheme desert
 set number
 
 set tabstop=4
