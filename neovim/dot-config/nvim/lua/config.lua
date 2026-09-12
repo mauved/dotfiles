@@ -1,3 +1,6 @@
+-- Syntax
+vim.opt.syntax = "enable"
+
 -- Editor quality of life
 vim.opt.number = true -- Enable line numbers
 
