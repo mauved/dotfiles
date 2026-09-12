@@ -1,0 +1,15 @@
+# Swap, backup, undo files
+*.swp
+*.swo
+*.swn
+*~
+*.bak
+.netrwhist
+
+# Editor/session state
+Session.vim
+.nvimlog
+
+# Local, machine-specific overrides
+*.local.lua
+*.local.vim
